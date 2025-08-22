@@ -45,5 +45,20 @@ private static final String URL = "jdbc:mysql://localhost:3306/employeedb";
 private static final String USERNAME = "your_username";
 private static final String PASSWORD = "your_password";
 
+Usage
+Run the application
+
+Choose from menu options:
+
+1: Add Employee
+
+2: View Employees
+
+3: Update Employee
+
+4: Delete Employee
+
+5: Exit
+
 
 
